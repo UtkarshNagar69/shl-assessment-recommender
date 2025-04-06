@@ -1,0 +1,8 @@
+sentence-transformers==2.2.2
+faiss-cpu
+fastapi
+uvicorn
+streamlit
+newspaper3k
+requests
+huggingface_hub==0.11.1

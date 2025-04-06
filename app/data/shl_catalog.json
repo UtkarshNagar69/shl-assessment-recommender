@@ -1,0 +1,20 @@
+[
+    {
+      "name": "Cognitive Ability Test",
+      "description": "Measures problem-solving and logical reasoning skills.",
+      "url": "https://www.shl.com/solutions/products/cognitive-ability-test/",
+      "remote": "Yes",
+      "adaptive": "Yes",
+      "duration": "30 minutes",
+      "type": "Ability"
+    },
+    {
+      "name": "Personality Questionnaire",
+      "description": "Evaluates personality traits relevant to the workplace.",
+      "url": "https://www.shl.com/solutions/products/personality-questionnaire/",
+      "remote": "Yes",
+      "adaptive": "No",
+      "duration": "20 minutes",
+      "type": "Personality"
+    }
+  ]
